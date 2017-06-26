@@ -17,7 +17,7 @@ To build:
 Note: you will probably need to change the line endings from \n to \r to use the bcpl files on the Alto.
 
 Example:
-![alto2.jpg]
+![Sample image displayed on Xerox Alto](https://raw.githubusercontent.com/shirriff/alto-display-image/master/alto2.jpg)
 
 If you don't have an Alto, you can run this on the Living Computer Museum's [Contralto emulator](https://github.com/livingcomputermuseum/ContrAlto).
 
