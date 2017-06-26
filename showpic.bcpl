@@ -1,0 +1,17 @@
+get "streams.d"
+external
+[
+// Incoming procedures
+InitPic; DisplayPic;
+Wl; Ws; Wns; Wss;
+keys; Gets;
+]
+
+let Main() be
+[
+InitPic("img")
+let lvdas = #420
+lvdas!0 = 0 // Blank screen
+DisplayPic()
+Gets(keys)
+]
